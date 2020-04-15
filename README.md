@@ -1,4 +1,4 @@
-# Dynatrace---Icinga-Downtime-Integration
+Icinga Dynatrace Downtime-Integration
 Integration to schedule maintenance between Icinga and Dynatrace at same time.
 
 A small script to integrate two different tools Dynatrace and Icinga and schedule maintenance for all the infrastructure hosts and services . This will be very helpful for some one to schedule downtime at one shot via python script and dont have to jump between two different tools.
